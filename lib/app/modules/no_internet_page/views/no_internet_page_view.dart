@@ -69,7 +69,7 @@ class NoInternetPageView extends GetView<NoInternetPageController> {
                 child: Text(
                   'Try again',
                   style: Theme.of(context).textTheme.button.copyWith(
-                        color: Colors.black,
+                        color: Colors.white,
                       ),
                   textAlign: TextAlign.center,
                 ),

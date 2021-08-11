@@ -6,6 +6,7 @@ import 'app/modules/no_internet_page/controllers/no_internet_page_controller.dar
 import 'app/modules/widgets/app_error_widget.dart';
 import 'app/routes/app_pages.dart';
 
+// final changes done
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   bool isDev = true;
