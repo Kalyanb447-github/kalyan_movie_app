@@ -7,7 +7,7 @@ class MovieDetailsController extends GetxController {
 
   Rx<MovielistModel> homePageModel = MovielistModel().obs;
 
-  RxString id = ''.obs;
+  RxInt id = 0.obs;
 
   movieDertailsFromApi() async {
     var response = await MovieRepository().movieDertailsFromApi(id: id.value);

@@ -21,7 +21,7 @@ class MovieRepository {
     return completer.future;
   }
 
-  Future movieDertailsFromApi({@required String id}) async {
+  Future movieDertailsFromApi({@required int id}) async {
     try {
       response = await Api().get('/$id');
       if (response.statusCode == 200) {

@@ -12,6 +12,7 @@ dependencies:
   get_storage: any
   connectivity: any
   flutter_svg: any
+  flare_flutter: any
 
   
 
