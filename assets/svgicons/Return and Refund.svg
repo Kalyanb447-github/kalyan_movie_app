@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.166661in" height="0.166661in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 166.66 166.66"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="₹" horiz-adv-x="556" d="M515.846 716.013l-48.8619 -72.0224 -101.499 0c10.346,-11.6528 19.022,-25.157 25.8467,-40.1496 6.8247,-14.9926 11.6528,-32.3447 14.6658,-51.8387l109.849 0 -48.8619 -71.9861 -60.9867 0c-3.84797,-23.6686 -11.6528,-45.5222 -23.1604,-65.5244 -11.5076,-20.0022 -26.8269,-37.1728 -45.6674,-51.6572 -18.8405,-14.4843 -41.166,-25.6652 -67.0127,-33.8331 -25.9919,-8.16786 -54.9969,-12.161 -87.1601,-12.161l297.02 -316.84 -130.032 0 -287 308.999 0 71.9861 71.8409 0c22.507,0 43.3441,2.1781 62.6929,6.35278 19.1672,4.17468 36.3016,10.4912 51.3305,18.9857 14.9926,8.49457 27.4803,18.8405 37.318,31.0016 10.0192,12.161 16.9891,26.355 20.8371,42.6907l-268.015 0 48.8619 71.9861 218.644 0c-7.47813,27.9885 -23.4871,50.314 -47.9907,67.0127 -24.6851,16.6624 -58.0099,24.9755 -100.338,24.9755l-119.178 0 48.8619 72.0224 427.996 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:none}
+    .fil1 {fill:#FBB457}
+    .fil2 {fill:#FBB457;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:108.45px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0" width="166.67" height="166.67"/>
+  <g id="_2351267730384">
+   <text x="53.24" y="122.16"  class="fil1 fnt0">₹</text>
+   <g>
+    <path class="fil2" d="M48.26 141.14c-13.94,-9.15 -16.57,-21.5 -17.05,-26.31l19.14 3.74 -38.01 -37.72 -0.19 0.74c0.01,0.01 0.01,0.01 0.01,0.01l-12.17 51.37 12.58 -11.69c1.33,5.69 6.91,22.74 27.76,33.08 28.35,14.05 49.81,-4.52 51.4,-5.96 0.01,-0.01 0.02,0 0.02,0 0.06,-0.06 0.09,-0.09 0.09,-0.09 0,0 -18.15,9.48 -43.57,-7.17z"/>
+    <path class="fil2" d="M118.41 25.52c13.94,9.13 16.57,21.51 17.05,26.31l-19.14 -3.74 38.01 37.72 0.18 -0.74 0 0 12.17 -51.37 -12.57 11.69c-1.33,-5.69 -6.91,-22.74 -27.76,-33.08 -28.35,-14.05 -49.81,4.52 -51.41,5.95l-0.01 0.01c-0.06,0.06 -0.09,0.09 -0.09,0.09 0,0 18.15,-9.48 43.57,7.17z"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.166661in" height="0.166661in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 166.66 166.66"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#FBB457;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0" width="166.67" height="166.67"/>
+  <g id="_2315011488864">
+   <g>
+    <polygon class="fil1" points="122.34,149.87 32.67,149.87 35.59,153.19 38.08,156 137.41,156 137.41,9.76 131.28,4.05 131.28,149.87 "/>
+    <polygon class="fil1" points="140.77,12.72 140.77,159.37 40.72,159.37 43.16,162.13 46.14,165.5 146.9,165.5 146.9,18.44 "/>
+    <path class="fil1" d="M33.7 46.76c0,-6.74 5.52,-12.26 12.25,-12.26l60.62 0c6.74,0 12.26,5.52 12.26,12.26l0 13.52c0,6.74 -5.52,12.25 -12.26,12.25l-60.62 0c-6.74,0 -12.25,-5.51 -12.25,-12.25l0 -13.52zm-3.15 100.3l97.92 0 0 -147.06 -100.76 0c0,0 -6.81,3.06 -7.81,7 -0.07,0.31 -0.13,0.62 -0.13,0.94l0 131.19c0,4.38 3.56,7.93 7.94,7.93l2.85 0z"/>
+    <path class="fil1" d="M38.49 162.13l-5.45 -6.13 -2.51 -2.82 -2.41 -2.7 -5.45 0 2.29 2.7 2.39 2.82 5.2 6.13 0.7 0.83c1.54,1.19 3.05,1.99 4.38,2.54 2.83,1.16 4.9,1.17 4.9,1.17l-1.03 -1.17 -3 -3.37z"/>
+   </g>
+   <g>
+    <polygon class="fil2" points="52.62,125.07 86.97,140.98 86.97,124.36 52.62,108.45 "/>
+    <polygon class="fil2" points="88.82,124.36 88.82,140.98 114.04,129.3 114.04,112.68 "/>
+    <polygon class="fil2" points="65.08,101.82 53.9,107 87.9,122.74 99.44,117.4 "/>
+    <polygon class="fil2" points="113.03,109.31 106.33,95.17 72.93,79.63 79.61,93.77 "/>
+    <polygon class="fil2" points="80.8,96.43 78.76,95.49 67.31,100.79 69.39,101.74 "/>
+    <polygon class="fil2" points="71.63,102.75 74.08,103.86 85.44,98.58 83.01,97.45 "/>
+    <polygon class="fil2" points="90.07,100.72 87.64,99.6 76.31,104.87 78.77,105.99 "/>
+    <polygon class="fil2" points="94.7,102.87 92.27,101.74 80.99,107 83.45,108.11 "/>
+    <polygon class="fil2" points="99.34,105.02 96.91,103.89 85.68,109.12 88.13,110.23 "/>
+    <polygon class="fil2" points="103.97,107.16 101.55,106.04 90.36,111.24 92.81,112.36 "/>
+    <polygon class="fil2" points="108.61,109.31 106.18,108.19 95.04,113.37 97.5,114.48 "/>
+    <polygon class="fil2" points="112.76,111.23 110.81,110.33 99.72,115.49 101.67,116.37 "/>
+   </g>
+  </g>
+ </g>
+</svg>
