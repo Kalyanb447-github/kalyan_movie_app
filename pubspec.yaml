@@ -13,6 +13,8 @@ dependencies:
   connectivity: any
   flutter_svg: any
   flare_flutter: any
+  http: any
+  fluttertoast: any
 
   
 

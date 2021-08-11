@@ -8,7 +8,7 @@ class MovieListBinding extends Bindings {
   void dependencies() {
     Get.put(MovieListController(), permanent: true);
     Get.put(MovieDetailsController(), permanent: true);
-
+    MovieListController.to.callOnlyOneFunction();
     MovieListController.to.getAllMovielistFromApi();
   }
 }
