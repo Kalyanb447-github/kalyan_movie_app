@@ -8,6 +8,9 @@ This app is created for a codinbg test
 I have used Clean Archetecture Design of coding
  --> Getx state management
 
+For local storage i love to use GetStorage
+
+
 handle the api error or network issue
  --> No intermet page 
  --> If internet comes page load again
@@ -24,6 +27,7 @@ flare animation
 Shimmer 
 
 This app if full null safety so it will never chances for crash
+
   
 
 
