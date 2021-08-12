@@ -3,7 +3,7 @@
 A new Flutter project
 
 ## Getting Started
-This app is created for a codinbg test
+This app is created for a coding test
 
 I have used Clean Archetecture Design of coding
  --> Getx state management
