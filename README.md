@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Kalyan__1](https://github.com/Kalyanb447-github/kalyan_movie_app/screenshots/1.png)
+![Kalyan__1](https://github.com/Kalyanb447-github/kalyan_movie_app/blob/main/screenshots/1.png)
