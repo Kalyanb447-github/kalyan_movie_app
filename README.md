@@ -1,19 +1,36 @@
 # kalyan_movie_app
 
-A new Flutter project.
+A new Flutter project
 
 ## Getting Started
+This app is created for a codinbg test
 
-This project is a starting point for a Flutter application.
+I have used Clean Archetecture Design of coding
+ --> Getx state management
 
-A few resources to get you started if this is your first Flutter project:
+handle the api error or network issue
+ --> No intermet page 
+ --> If internet comes page load again
+page for global Error on runtime 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+api security using interceptor
+ -->Dio
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+image loader 
+ --> cached_network_image
+
+flare animation
+
+Shimmer 
+
+This app if full null safety so it will never chances for crash
+  
+
+
+Responsive ui
+ --> Mediaquery
+ --> Expanded
+ --> Flex
 
 
 ## Screenshots
