@@ -13,12 +13,13 @@ dependencies:
   connectivity: any
   flutter_svg: any
   flare_flutter: any
-  http: any
+  # http: any
   fluttertoast: any
   shimmer: 1.1.2
   cached_network_image: ^2.3.3
 
   
+
 
 
   # rxdart: ^0.23.1

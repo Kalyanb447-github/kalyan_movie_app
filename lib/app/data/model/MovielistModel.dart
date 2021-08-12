@@ -9,7 +9,7 @@ class MovielistModel {
   MovielistModel.fromJson(Map<String, dynamic> json) {
     page = json['page'];
     if (json['results'] != null) {
-      results = new List<Results>();
+      results = new List<Results>.empty(growable: true);
       json['results'].forEach((v) {
         results.add(new Results.fromJson(v));
       });
