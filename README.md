@@ -2,6 +2,8 @@
 
 A new Flutter project
 
+Apk download link https://drive.google.com/file/d/1-0XYtOy5IsN0X_q3yReG1ENTi2RvJ3UQ/view?usp=drivesdk
+
 ## Getting Started
 This app is created for a coding test
 
@@ -40,4 +42,4 @@ Responsive ui
 ## Screenshots
 
 ![Kalyan__1](https://github.com/Kalyanb447-github/kalyan_movie_app/blob/main/screenshots/1.png)
-![Kalyan__1](https://github.com/Kalyanb447-github/kalyan_movie_app/blob/main/screenshots/2.png)
+![Kalyan__2](https://github.com/Kalyanb447-github/kalyan_movie_app/blob/main/screenshots/2.png)
